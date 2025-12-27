@@ -1,5 +1,3 @@
-#Image Classification with TensorFlow
-
 ## 📌 Project Overview
 
 This project demonstrates how to build, train, and evaluate an **image classification model** using **TensorFlow** and **Keras**. The model learns to recognize and classify images into predefined categories using a deep learning approach.
