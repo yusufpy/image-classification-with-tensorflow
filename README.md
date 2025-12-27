@@ -6,7 +6,6 @@ This project demonstrates how to build, train, and evaluate an **image classific
 
 The project is designed to be simple, modular, and easy to understand for machine learning guys that are just exploring computer vision with TensorFlow.
 
----
 
 ## 🚀 Features
 
@@ -16,7 +15,6 @@ The project is designed to be simple, modular, and easy to understand for machin
 * Model evaluation and accuracy visualization
 * Predicting classes for new images
 
----
 
 ## 🛠️ Technologies Used
 
@@ -24,12 +22,12 @@ The project is designed to be simple, modular, and easy to understand for machin
 * TensorFlow / Keras
 * NumPy
 * Matplotlib
-* OpenCV or PIL (optional, for image handling)
+* Kaggle
 
 
 ## 📊 Dataset
 
-The dataset is private
+The dataset is downloaded from kaggle: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
 ## ⚙️ Installation
 
@@ -56,9 +54,6 @@ pip install -r requirements.txt
 * The model achieves good accuracy on the validation dataset.
 * Training and validation accuracy/loss graphs are generated to analyze performance.
 
-(You can add screenshots or sample outputs here.)
-
----
 
 ## 🧠 Model Architecture
 
@@ -67,7 +62,6 @@ pip install -r requirements.txt
 * Fully connected (Dense) layers for classification
 * Softmax activation for multi-class output
 
----
 
 ## 📌 Future Improvements
 
@@ -75,8 +69,6 @@ pip install -r requirements.txt
 * Hyperparameter tuning
 * Support for larger datasets
 * Deploy the model using Flask or FastAPI
-
----
 
 ## 🤝 Contributing
 
